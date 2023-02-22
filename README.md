@@ -59,6 +59,7 @@ const kavi = {
 10. Traffic Signal Switching Using YOLO
     https://drive.google.com/file/d/1Pixsx4KMNZxnlT4HrM_JzvTcgABinopI/view?usp=share_link
 
+Contact through linkedin for more personalized projects.
 <h5>Follow for more !! </h5>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
